@@ -1,5 +1,5 @@
 basic.forever(function () {
-    if (input.soundLevel() > 20) {
+    if (input.soundLevel() > 35) {
         basic.showLeds(`
             # # # # #
             # # # # #
